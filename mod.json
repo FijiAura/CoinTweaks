@@ -1,18 +1,18 @@
 {
-	"geode": "4.3.1",
+	"geode": "4.9.0",
 	"gd": {
 		"win": "2.2074",
 		"android": "2.2074",
 		"mac": "2.2074",
 		"ios": "2.2074"
 	},
-	"version": "v2.0.3",
-	"id": "colon.gold_user_coins",
-	"name": "Gold User Coins",
-	"developer": "Colon",
-	"description": "Causes user coins to render as secret coins",
+	"version": "v1.0.0",
+	"id": "fijiaura.coin_tweaks",
+	"name": "Coin Tweaks",
+	"developer": "FijiAura",
+	"description": "Customize your coins!",
 	"links": {
-		"source": "https://github.com/GDColon/Gold-User-Coins"
+		"source": "https://github.com/FijiAura/CoinTweaks"
 	},
 	"settings": {
 		"goldUI": {
