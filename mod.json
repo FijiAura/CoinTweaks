@@ -43,6 +43,11 @@
 			"version": ">=1.16.0",
 			"importance": "required"
 		}
+		{
+			"id": "user95401.gif-sprites",
+			"version": ">=v2.0.0",
+			"importance": "required"
+		}
 	],
 	"tags": ["customization"]
 }
